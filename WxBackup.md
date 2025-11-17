@@ -4,9 +4,9 @@
 
 **以下是微备份的部分界面截图：**
 
-![1762141537199](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762141537199.png)
+![1762141537199](assets/1762141537199.png)
 
-![1752131962852](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1752131962852.png)
+![1752131962852](assets/1752131962852.png)
 
 
 
@@ -41,9 +41,9 @@
 
 3、安装：在 **应用中心** 左下方选择 **“手动安装”**，选择刚下载保存的微备份安装包进行安装
 
-![1762150584709](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762150584709.png)
+![1762150584709](assets/1762150584709.png)
 
-![1762150623470](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762150623470.png)
+![1762150623470](assets/1762150623470.png)
 
 
 
@@ -53,7 +53,7 @@
 
 #### 使用前必看（非常重要）
 
-![1762742622639](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762742622639.png)
+![1762742622639](assets/1762742622639.png)
 
 
 
@@ -89,7 +89,7 @@
 
 可根据自己的需求进行备份设置。
 
-![1762744114386](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762744114386.png)
+![1762744114386](assets/1762744114386.png)
 
 ###### 开始备份
 
@@ -97,9 +97,9 @@
 
 以下是备份时的截图：
 
-![1762744786310](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762744786310.png)
+![1762744786310](assets/1762744786310.png)
 
-![1762744901137](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762744901137.png)
+![1762744901137](assets/1762744901137.png)
 
 #### 查看聊天记录
 
@@ -107,7 +107,7 @@
 
 目前聊天记录查看器支持的功能有：搜索聊天记录（可按日期、文件、图片、视频、链接、小程序、视频号、音乐与音频等类型进行搜索）、查看聊天记录、联系人（好友、群聊、公众号、企业微信联系人）、**统计**、**导出文件（目前仅支持Web端）**、**会话消息数**，还有一些功能正在开发中。
 
-![1752131962852](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1752131962852.png)
+![1752131962852](assets/1752131962852.png)
 
 
 
@@ -163,11 +163,11 @@
 
 以下是消息类型的部分截图：
 
-![1762747641602](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762747641602.png)
+![1762747641602](assets/1762747641602.png)
 
-![1762747710606](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762747710606.png)
+![1762747710606](assets/1762747710606.png)
 
-![1762747885653](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762747885653.png)
+![1762747885653](assets/1762747885653.png)
 
 
 
@@ -179,7 +179,7 @@
 
 * 如果未设置访问密码，则可以直接删除。
 
-![1762748164937](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762748164937.png)
+![1762748164937](assets/1762748164937.png)
 
 
 
@@ -187,7 +187,7 @@
 
 在设置页面可设置“访问密码”，但必须选中微信账号后，才能设置。（访问密码也可以在备份时设置，也可以在备份后在设置页面设置）
 
-![1762748270329](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762748270329.png)
+![1762748270329](assets/1762748270329.png)
 
 
 
@@ -197,7 +197,7 @@
 
 **微备份** 支持下载更新，检测到有新版本后，可直接下载更新，更新完毕后，需手动重新运行 **微备份**。
 
-![1762748909596](C:\Users\baoss\AppData\Roaming\Typora\typora-user-images\1762748909596.png)
+![1762748909596](assets/1762748909596.png)
 
 
 
