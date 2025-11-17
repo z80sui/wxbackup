@@ -314,15 +314,15 @@ BAK_10_TEXT
 
 
 
-![1763349353532](C:\Users\baoss\Desktop\WxBackup\assets\1763349353532.png)
+![1763349353532](assets/1763349353532.png)
 
 
 
 在微信官方微信PC端恢复的步骤如下图：
 
-![1763349395657](C:\Users\baoss\Desktop\WxBackup\assets\1763349395657.png)
+![1763349395657](assets/1763349395657.png)
 
-![1763349416101](C:\Users\baoss\Desktop\WxBackup\assets\1763349416101.png)![1763349441167](C:\Users\baoss\Desktop\WxBackup\assets\1763349441167.png)![1763349451707](C:\Users\baoss\Desktop\WxBackup\assets\1763349451707.png)
+![1763349416101](assets/1763349416101.png)![1763349441167](assets/1763349441167.png)![1763349451707](assets/1763349451707.png)
 
 
 
