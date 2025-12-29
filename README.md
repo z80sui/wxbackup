@@ -248,7 +248,7 @@
 
 
 
-### 为什么运行后程序会白屏/无内容？
+### 为什么运行后程序会微备份主界面会白屏/无内容？
 
 如果运行微备份出现“白屏”、“无内容”、“stat /var/apps/WxBackup/target/index.cgi/: no such file or directory”、“502”等情况，可能有以下原因：
 
@@ -265,6 +265,12 @@ systemctl restart trim_http_cgi.service
 ```
 
 5、如有其他情况，可以反馈给客服邮箱（weibeifen@proton.me）或者在github上提问。
+
+
+
+### 为什么微备份在登录时，微信安全验证页面会显示白屏/无内容？
+
+如果遇到这个问题，可以尝试使用 `http://192.168.XX.XX:5666` 内网IP的方式来访问飞牛，然后再运行微备份扫码登录，应该能解决白屏验证页面的问题，也就是**不强制使用 https 访问**。
 
 
 
@@ -434,6 +440,7 @@ BAK_10_TEXT
 如有任何使用上的问题、意见反馈，均可联系客服。
 
 **联系客服：** weibeifen@proton.me
+
 
 
 
