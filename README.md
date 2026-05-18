@@ -565,7 +565,7 @@ systemctl restart trim_http_cgi.service
 
 1、在飞牛应用中心**停用微备份**
 
-2、删除这个 `/var/apps/WxBackup/var/dbs/` 文件夹下的 **global.db、 global.db-shm、global.db-wal** 三个文件
+2、使用**终端工具**删除这个 `/var/apps/WxBackup/var/dbs/` 文件夹下的 **global.db、 global.db-shm、global.db-wal** 三个文件
 
 3、在飞牛应用中心**启用微备份**，重新登录微信，将备份路径设置成之前的备份路径即可（如果没有设置备份路径，就无需设置），**不用重新全量备份**
 
